@@ -10,7 +10,9 @@ Pada gambar tersebut dapat diketahui bahwa pada sumbu x dari kanan merupakan dat
 ![Descriptive](https://github.com/galangimanta557/Exploratory-Data-Analysis/blob/master/Inflasi/Descriptive.PNG)
 
 Berdasarkan hasil deskriptif pada variabel inflasi, dapat diketahui bahwa jumlah data sebesar 199 dan rata-rata dari data inflasi sebesar 0.0631 atau 6.3 %. Kemudian pada variabel inflasi memiliki nilai standar deviasi sebesar 0.033 dan nilai minimum dan maximum sebesar 0.00 dan 0.183. Pada nilai Q1, Q2 dan Q3 yaitu sebesar 0.038, 0.060 dan 0.072. Serta tipe data pada inflasi merupakan tipe data float atau tipe data bilangan real.
+
 ***
+
 # **Interpretasi EDA mtcars**
 ### Frequency mpg level
 ![Freq MPG Level](https://github.com/galangimanta557/Exploratory-Data-Analysis/blob/master/mtcars/freq%20mpg%20level.PNG)
